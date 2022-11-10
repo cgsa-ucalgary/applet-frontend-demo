@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/applet-frontend-demo/static/css/main.ba1677bf.css",
-    "main.js": "/applet-frontend-demo/static/js/main.de63775c.js",
+    "main.css": "/applet-frontend-demo/static/css/main.aaeccd13.css",
+    "main.js": "/applet-frontend-demo/static/js/main.fdb733b6.js",
     "static/js/787.28cb0dcd.chunk.js": "/applet-frontend-demo/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Kanit-Bold.ttf": "/applet-frontend-demo/static/media/Kanit-Bold.46cd98a815b9874526ad.ttf",
-    "static/media/Kanit-Italic.ttf": "/applet-frontend-demo/static/media/Kanit-Italic.af5b1c62659b287d31b6.ttf",
-    "static/media/Kanit-Regular.ttf": "/applet-frontend-demo/static/media/Kanit-Regular.f3bae13d78ced30b6ea3.ttf",
-    "static/media/Alkalami-Regular.ttf": "/applet-frontend-demo/static/media/Alkalami-Regular.0afcc73b777ef78470a7.ttf",
     "index.html": "/applet-frontend-demo/index.html",
-    "main.ba1677bf.css.map": "/applet-frontend-demo/static/css/main.ba1677bf.css.map",
-    "main.de63775c.js.map": "/applet-frontend-demo/static/js/main.de63775c.js.map",
+    "main.aaeccd13.css.map": "/applet-frontend-demo/static/css/main.aaeccd13.css.map",
+    "main.fdb733b6.js.map": "/applet-frontend-demo/static/js/main.fdb733b6.js.map",
     "787.28cb0dcd.chunk.js.map": "/applet-frontend-demo/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba1677bf.css",
-    "static/js/main.de63775c.js"
+    "static/css/main.aaeccd13.css",
+    "static/js/main.fdb733b6.js"
   ]
 }
